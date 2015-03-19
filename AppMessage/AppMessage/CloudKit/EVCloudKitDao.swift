@@ -6,7 +6,7 @@
 //
 
 import CloudKit
-
+import UIKit
 
 /**
 Wrapper class for being able to use a class instance Dictionary
